@@ -1,0 +1,2 @@
+webpackJsonp([55702396619907],{376:function(a,t){a.exports={data:{site:{siteMetadata:{title:"Блог Курпача Сергея",subtitle:"Заметки, мысли и идеи IT-тематики и не только",copyright:"2018, (c) Все права защищены",menu:[{label:"Статьи",path:"/"},{label:"Обо мне",path:"/about/"}],author:{name:"Сергей Курпач",email:"sergey.v.kurpach@gmail.com",telegram:"kurpachsv",twitter:"kurpachsv",github:"kurpachsv",vk:"kurpachsv"}}},allMarkdownRemark:{group:[{fieldValue:"#первопост",totalCount:1}]}},pathContext:{}}}});
+//# sourceMappingURL=path---tags-d7d7c2568c8c43cfd58b.js.map
