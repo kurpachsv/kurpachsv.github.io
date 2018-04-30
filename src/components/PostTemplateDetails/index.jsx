@@ -1,7 +1,6 @@
 import React from 'react';
 import Link from 'gatsby-link';
 import moment from 'moment';
-moment.locale('ru');
 import Disqus from '../Disqus/Disqus';
 import './style.scss';
 
