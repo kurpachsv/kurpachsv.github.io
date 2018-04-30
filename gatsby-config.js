@@ -3,7 +3,7 @@ module.exports = {
     url: 'https://kurpachsv.github.io',
     title: 'Блог Курпача Сергея',
     subtitle: 'Заметки, мысли и идеи IT-тематики и не только',
-    copyright: '2018, (c) Все права защищены',
+    copyright: '2018, © Все права защищены',
     disqusShortname: 'kurpachsv',
     menu: [
       {
