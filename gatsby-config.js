@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://kurpachsv.github.io',
+    url: 'https://kurpachsv.com',
     title: 'Блог Курпача Сергея',
     subtitle: 'Заметки, мысли и идеи IT-тематики и не только',
     copyright: '2018, © Все права защищены',
