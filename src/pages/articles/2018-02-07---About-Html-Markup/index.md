@@ -1,6 +1,6 @@
 ---
 title: Пара слов о HTML-разметке
-date: "2018-06-02"
+date: "2018-07-02"
 layout: post
 draft: false
 path: "/posts/few-words-about-markup/"
