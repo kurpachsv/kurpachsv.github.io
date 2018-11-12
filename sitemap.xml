@@ -3,9 +3,6 @@
 <url> <loc>https://kurpachsv.com/posts/hello-world/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://kurpachsv.com/tags/первопост/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://kurpachsv.com/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://kurpachsv.com/posts/few-words-about-markup/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://kurpachsv.com/tags/ui-development/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://kurpachsv.com/tags/thinking/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://kurpachsv.com/categories/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://kurpachsv.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://kurpachsv.com/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
